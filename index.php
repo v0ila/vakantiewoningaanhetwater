@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>VAKANTIEWONINGAANHETWATER</title>
+  <title>Vakantieaanhetwater</title>
   <link rel="stylesheet" href="assets/css/bulma.min.css">
   <link rel="stylesheet" href="assets/css/styles.css">
   <link rel="shortcut icon" type="image/png" href="assets/img/favicon.png">
@@ -180,7 +180,7 @@
             </div>
             <div class="field">
               <div class="control">
-                <button id="submit" class="default button is-fullwidth">Submit</button>
+                <button id="submit" class="default button is-fullwidth">Versturen</button>
               </div>
             </div>
           </form>
@@ -191,7 +191,7 @@
           </div>
           <div id="failure">
             <div class="content has-text-centered">
-              <h3 class="title">Sending failed...</h3>
+              <h3 class="title">Versturen mislukt...</h3>
             </div>
           </div>
         </div>
