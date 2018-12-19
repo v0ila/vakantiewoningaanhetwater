@@ -62,8 +62,7 @@
   <section class="hero feature index-feature is-large fadeIn">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title has-text-white heavy shadow">Vakantie aan het water.</h1>
-        <h2 class="subtitle has-text-white shadow">Titel</h2>
+        <h1 class="title has-text-white heavy shadow">Overzicht</h1>
       </div>
     </div>
   </section>
@@ -71,7 +70,7 @@
   <section class="section is-medium">
     <div class="container">
       <div class="content">
-        <h2>Titel</h2>
+        <h2>Amelanderkaap</h2>
         <p>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla, posuere eget elementum vel, egestas non sapien. Lorem
           ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus dignissim molestie. Etiam imperdiet sit amet nibh a dapibus. Morbi sit amet justo ac justo scelerisque fringilla non facilisis nulla. Quisque in dolor ut justo malesuada
           ultricies ut et lorem. Nam interdum interdum tempor. Aenean malesuada ipsum vel elit commodo sagittis. Phasellus gravida, ligula vel tempus mattis, nibh lectus aliquam leo, non mollis sem mauris quis velit.</p>
@@ -89,7 +88,7 @@
         </div>
         <div class="column is-6-desktop is-12-touch">
           <div class="content about">
-            <a href="one"><p><span class="about-title heavy">Titel</span><br>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla,
+            <a href="one"><p><span class="about-title heavy">Kaap #114</span><br>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla,
               posuere eget elementum vel, egestas non sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></a>
           </div>
         </div>
@@ -100,7 +99,7 @@
         </div>
         <div class="column is-6-desktop is-12-touch">
           <div class="content about has-text-right-desktop">
-            <a href="two"><p><span class="about-title heavy">Titel</span><br>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla,
+            <a href="two"><p><span class="about-title heavy">Kaap #115</span><br>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla,
               posuere eget elementum vel, egestas non sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><a>
           </div>
         </div>
