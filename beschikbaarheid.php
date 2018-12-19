@@ -38,7 +38,7 @@
   <nav class="navbar is-white is-fixed-top" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <div class="navbar-item heavy">
-        <a href="index">Titel</a>
+        <a href="index">Beschikbaarheid</a>
       </div>
       <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
         <span aria-hidden="true"></span>
@@ -52,9 +52,9 @@
       </div>
       <div class="navbar-end">
         <a href="index" class="navbar-item">Home</a>
-        <a href="one" class="navbar-item">Huisjes Amelanderkaap</a>
-        <a href="two" class="navbar-item">Huisjes Boomhiemke</a>
-        <a href="three" class="navbar-item">Huisjes Nogiets</a>
+        <a href="one" class="navbar-item">Amelanderkaap</a>
+        <a href="two" class="navbar-item">Boomhiemke</a>
+        <a href="three" class="navbar-item">Nog iets</a>
         <a href="beschikbaarheid" class="navbar-item">Beschikbaarheid</a>
       </div>
     </div>
@@ -64,8 +64,8 @@
   <section class="hero feature index-feature is-large fadeIn">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title has-text-white heavy shadow">Titel</h1>
-        <h2 class="subtitle has-text-white shadow">Titel</h2>
+        <h1 class="title has-text-white heavy shadow">Vakantie aan het water.</h1>
+        <h2 class="subtitle has-text-white shadow">Beschikbaarheid</h2>
       </div>
     </div>
   </section>
@@ -84,7 +84,7 @@
       <div class="columns is-mobile is-multiline huts">
         <div class="column is-6-desktop is-12-touch">
           <figure class="image is-square">
-            <a href="one"><img src="assets/img/one/main.jpg"></a>
+            <a href="one"><img src="assets/img/boomhiemke_5.jpg"></a>
           </figure>
         </div>
         <div class="column is-6-desktop is-12-touch">
@@ -95,7 +95,7 @@
         </div>
         <div class="column is-6-desktop is-hidden-desktop">
           <figure class="image is-square">
-            <a href="two"><img src="assets/img/two/main.jpg"></a>
+            <a href="two"><img src="assets/img/boomhiemke_6.jpg"></a>
           </figure>
         </div>
         <div class="column is-6-desktop is-12-touch">

@@ -36,7 +36,7 @@
   <nav class="navbar is-white is-fixed-top" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <div class="navbar-item heavy">
-        <a href="index">Titel</a>
+        <a href="index">Vakantie aan het water Home</a>
       </div>
       <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
         <span aria-hidden="true"></span>
@@ -50,9 +50,9 @@
       </div>
       <div class="navbar-end">
         <a href="index" class="navbar-item">Home</a>
-        <a href="one" class="navbar-item">Huisjes Amelanderkaap</a>
-        <a href="two" class="navbar-item">Huisjes Boomhiemke</a>
-        <a href="three" class="navbar-item">Huisjes Nogiets</a>
+        <a href="one" class="navbar-item">Amelanderkaap</a>
+        <a href="two" class="navbar-item">Boomhiemke</a>
+        <a href="three" class="navbar-item">Nog iets</a>
         <a href="beschikbaarheid" class="navbar-item">Beschikbaarheid</a>
       </div>
     </div>
@@ -62,8 +62,8 @@
   <section class="hero feature index-feature is-large fadeIn">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title has-text-white heavy shadow">Titel</h1>
-        <h2 class="subtitle has-text-white shadow">Titel</h2>
+        <h1 class="title has-text-white heavy shadow">Vakantie aan het water.</h1>
+        <h2 class="subtitle has-text-white shadow">Overzicht</h2>
       </div>
     </div>
   </section>
@@ -71,7 +71,7 @@
   <section class="section is-medium">
     <div class="container">
       <div class="content">
-        <h2>Titel</h2>
+        <h2>Amelanderkaap</h2>
         <p>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla, posuere eget elementum vel, egestas non sapien. Lorem
           ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus dignissim molestie. Etiam imperdiet sit amet nibh a dapibus. Morbi sit amet justo ac justo scelerisque fringilla non facilisis nulla. Quisque in dolor ut justo malesuada
           ultricies ut et lorem. Nam interdum interdum tempor. Aenean malesuada ipsum vel elit commodo sagittis. Phasellus gravida, ligula vel tempus mattis, nibh lectus aliquam leo, non mollis sem mauris quis velit.</p>
@@ -84,7 +84,7 @@
       <div class="columns is-mobile is-multiline huts">
         <div class="column is-6-desktop is-12-touch">
           <figure class="image is-square">
-            <a href="one"><img src="assets/img/one/main.jpg"></a>
+            <a href="one"><img src="assets/img/boomhiemke_1.jpg"></a>
           </figure>
         </div>
         <div class="column is-6-desktop is-12-touch">
@@ -95,7 +95,7 @@
         </div>
         <div class="column is-6-desktop is-hidden-desktop">
           <figure class="image is-square">
-            <a href="two"><img src="assets/img/two/main.jpg"></a>
+            <a href="two"><img src="assets/img/boomhiemke_2.jpg"></a>
           </figure>
         </div>
         <div class="column is-6-desktop is-12-touch">
@@ -106,12 +106,12 @@
         </div>
         <div class="column is-6-desktop is-hidden-touch">
           <figure class="image is-square">
-            <a href="two"><img src="assets/img/two/main.jpg"></a>
+            <a href="two"><img src="assets/img/boomhiemke_3.jpg"></a>
           </figure>
         </div>
         <div class="column is-6-desktop is-12-touch">
           <figure class="image is-square">
-            <a href="three"><img src="assets/img/three/main.jpg"></a>
+            <a href="three"><img src="assets/img/boomhiemke_4.jpg"></a>
           </figure>
         </div>
         <div class="column is-6-desktop is-12-touch">
