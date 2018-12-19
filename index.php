@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Vakantieaanhetwater</title>
+  <title>Titel</title>
   <link rel="stylesheet" href="assets/css/bulma.min.css">
   <link rel="stylesheet" href="assets/css/styles.css">
   <link rel="shortcut icon" type="image/png" href="assets/img/favicon.png">
@@ -50,9 +50,10 @@
       </div>
       <div class="navbar-end">
         <a href="index" class="navbar-item">Home</a>
-        <a href="one" class="navbar-item">Pagina één</a>
-        <a href="two" class="navbar-item">Pagina twee</a>
-        <a href="three" class="navbar-item">Pagina drie</a>
+        <a href="one" class="navbar-item">Huisjes Amelanderkaap</a>
+        <a href="two" class="navbar-item">Huisjes Boomhiemke</a>
+        <a href="three" class="navbar-item">Huisjes Nogiets</a>
+        <a href="beschikbaarheid" class="navbar-item">Beschikbaarheid</a>
       </div>
     </div>
   </nav>

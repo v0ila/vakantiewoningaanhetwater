@@ -1,14 +1,12 @@
-<?php include "assets/php/functions.php"; ?>
 <!DOCTYPE html>
 <html>
 
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Vakantieaanhetwater</title>
+  <title>Titel</title>
   <link rel="stylesheet" href="assets/css/bulma.min.css">
   <link rel="stylesheet" href="assets/css/styles.css">
-  <link rel="stylesheet" href="assets/css/lightbox.min.css">
   <link rel="shortcut icon" type="image/png" href="assets/img/favicon.png">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
@@ -60,7 +58,8 @@
     </div>
   </nav>
 
-  <section class="hero feature three-feature is-large fadeIn">
+
+  <section class="hero feature index-feature is-large fadeIn">
     <div class="hero-body">
       <div class="container">
         <h1 class="title has-text-white heavy shadow">Titel</h1>
@@ -73,39 +72,53 @@
     <div class="container">
       <div class="content">
         <h2>Titel</h2>
-        <p>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla, posuere eget elementum vel, egestas non sapien. Lorem
-          ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus dignissim molestie. Etiam imperdiet sit amet nibh a dapibus. Morbi sit amet justo ac justo scelerisque fringilla non facilisis nulla. Quisque in dolor ut justo malesuada
-          ultricies ut et lorem. Nam interdum interdum tempor. Aenean malesuada ipsum vel elit commodo sagittis. Phasellus gravida, ligula vel tempus mattis, nibh lectus aliquam leo, non mollis sem mauris quis velit.</p>
+        <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;hl=nl&amp;bgcolor=%23FFFFFF&amp;src=vakantieopamelandbv%40gmail.com&amp;color=%231B887A&amp;src=nl.dutch%23holiday%40group.v.calendar.google.com&amp;color=%23125A12&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="1200" height="600" frameborder="0" scrolling="no"></iframe>
       </div>
     </div>
   </section>
 
   <section class="section">
     <div class="container">
-      <div class="columns is-mobile is-multiline gallery">
-        <?php gallery("three"); ?>
-      </div>
-    </div>
-  </section>
-
-  <section class="section is-small">
-    <div class="container">
-      <div class="columns is-mobile is-multiline has-text-centered">
-        <div class="column is-3-desktop is-6-touch">
-          <p class="heading">Bedden</p>
-          <p class="title">4</p>
+      <div class="columns is-mobile is-multiline huts">
+        <div class="column is-6-desktop is-12-touch">
+          <figure class="image is-square">
+            <a href="one"><img src="assets/img/one/main.jpg"></a>
+          </figure>
         </div>
-        <div class="column is-3-desktop is-6-touch">
-          <p class="heading">Kamers</p>
-          <p class="title">6</p>
+        <div class="column is-6-desktop is-12-touch">
+          <div class="content about">
+            <a href="one"><p><span class="about-title heavy">Titel</span><br>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla,
+              posuere eget elementum vel, egestas non sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></a>
+          </div>
         </div>
-        <div class="column is-3-desktop is-6-touch">
-          <p class="heading">Badkamers</p>
-          <p class="title">2</p>
+        <div class="column is-6-desktop is-hidden-desktop">
+          <figure class="image is-square">
+            <a href="two"><img src="assets/img/two/main.jpg"></a>
+          </figure>
         </div>
-        <div class="column is-3-desktop is-6-touch">
-          <p class="heading">Prijs</p>
-          <p class="title">€499</p>
+        <div class="column is-6-desktop is-12-touch">
+          <div class="content about has-text-right-desktop">
+            <a href="two"><p><span class="about-title heavy">Titel</span><br>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla,
+              posuere eget elementum vel, egestas non sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><a>
+          </div>
+        </div>
+        <div class="column is-6-desktop is-hidden-touch">
+          <figure class="image is-square">
+            <a href="two"><img src="assets/img/two/main.jpg"></a>
+          </figure>
+        </div>
+        <div class="column is-6-desktop is-12-touch">
+          <figure class="image is-square">
+            <a href="three"><img src="assets/img/three/main.jpg"></a>
+          </figure>
+        </div>
+        <div class="column is-6-desktop is-12-touch">
+          <div class="content about">
+            <a href="three"><p><span class="about-title heavy">Titel</span><br>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla,
+              posuere eget elementum vel, egestas non sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus dignissim molestie. Etiam imperdiet sit amet nibh a dapibus. Morbi sit amet justo ac justo scelerisque fringilla non
+              facilisis nulla. Quisque in dolor ut justo malesuada ultricies ut et lorem. Nam interdum interdum tempor. Aenean malesuada ipsum vel elit commodo sagittis. Phasellus gravida, ligula vel tempus mattis, nibh lectus aliquam leo, non
+              mollis sem mauris quis velit.</p></a>
+          </div>
         </div>
       </div>
     </div>
@@ -204,11 +217,7 @@
   <div id="three-cache"></div>
 
   <script src="assets/js/jquery.min.js"></script>
-  <script src="assets/js/lightbox.min.js"></script>
   <script src="assets/js/scripts.js"></script>
-  <script>
-  var lightbox = $('.gallery a').simpleLightbox();
-  </script>
 
 </body>
 

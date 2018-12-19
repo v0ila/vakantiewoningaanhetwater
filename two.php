@@ -52,9 +52,10 @@
       </div>
       <div class="navbar-end">
         <a href="index" class="navbar-item">Home</a>
-        <a href="one" class="navbar-item">Pagina één</a>
-        <a href="two" class="navbar-item">Pagina twee</a>
-        <a href="three" class="navbar-item">Pagina drie</a>
+        <a href="one" class="navbar-item">Huisjes Amelanderkaap</a>
+        <a href="two" class="navbar-item">Huisjes Boomhiemke</a>
+        <a href="three" class="navbar-item">Huisjes Nogiets</a>
+        <a href="beschikbaarheid" class="navbar-item">Beschikbaarheid</a>
       </div>
     </div>
   </nav>
