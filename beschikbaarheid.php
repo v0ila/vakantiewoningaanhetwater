@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Titel</title>
+  <title>Vakantieaanhetwater</title>
   <link rel="stylesheet" href="assets/css/bulma.min.css">
   <link rel="stylesheet" href="assets/css/styles.css">
   <link rel="stylesheet" href="assets/css/google.css">
@@ -61,13 +61,13 @@
   </nav>
 
 
-  <section class="hero feature index-feature is-large fadeIn">
+<!--   <section class="hero feature index-feature is-large fadeIn">
     <div class="hero-body">
       <div class="container">
         <h1 class="title has-text-white heavy shadow">Beschikbaarheid</h1>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <div class="columns">
         <div class="column is-half">

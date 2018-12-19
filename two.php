@@ -54,7 +54,7 @@
         <a href="index" class="navbar-item">Home</a>
         <a href="one" class="navbar-item">Amelanderkaap</a>
         <a href="two" class="navbar-item">Boomhiemke</a>
-        <a href="three" class="navbar-item">Nog iets</a>
+        <a href="three" class="navbar-item">Roompot</a>
         <a href="beschikbaarheid" class="navbar-item">Beschikbaarheid</a>
       </div>
     </div>

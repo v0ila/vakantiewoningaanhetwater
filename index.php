@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Titel</title>
+  <title>Vakantieaanhetwater</title>
   <link rel="stylesheet" href="assets/css/bulma.min.css">
   <link rel="stylesheet" href="assets/css/styles.css">
   <link rel="shortcut icon" type="image/png" href="assets/img/favicon.png">
@@ -52,7 +52,7 @@
         <a href="index" class="navbar-item">Home</a>
         <a href="one" class="navbar-item">Amelanderkaap</a>
         <a href="two" class="navbar-item">Boomhiemke</a>
-        <a href="three" class="navbar-item">Nogiets</a>
+        <a href="three" class="navbar-item">Roompot</a>
         <a href="beschikbaarheid" class="navbar-item">Beschikbaarheid</a>
       </div>
     </div>

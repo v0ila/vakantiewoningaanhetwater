@@ -54,7 +54,7 @@
         <a href="index" class="navbar-item">Home</a>
         <a href="one" class="navbar-item">Amelanderkaap</a>
         <a href="two" class="navbar-item">Boomhiemke</a>
-        <a href="three" class="navbar-item">Nogiets</a>
+        <a href="three" class="navbar-item">Roompot</a>
         <a href="beschikbaarheid" class="navbar-item">Beschikbaarheid</a>
       </div>
     </div>
@@ -63,7 +63,7 @@
   <section class="hero feature three-feature is-large fadeIn">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title has-text-white heavy shadow">Nog iets</h1>
+        <h1 class="title has-text-white heavy shadow">Roompot</h1>
       </div>
     </div>
   </section>
@@ -71,7 +71,7 @@
   <section class="section is-medium">
     <div class="container">
       <div class="content">
-        <h2>Nog iets</h2>
+        <h2>Roompot</h2>
         <p>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla, posuere eget elementum vel, egestas non sapien. Lorem
           ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus dignissim molestie. Etiam imperdiet sit amet nibh a dapibus. Morbi sit amet justo ac justo scelerisque fringilla non facilisis nulla. Quisque in dolor ut justo malesuada
           ultricies ut et lorem. Nam interdum interdum tempor. Aenean malesuada ipsum vel elit commodo sagittis. Phasellus gravida, ligula vel tempus mattis, nibh lectus aliquam leo, non mollis sem mauris quis velit.</p>
@@ -115,7 +115,7 @@
       <div class="columns">
         <div class="column is-half">
           <div class="content">
-            <h2>Boomhiemke titel</h2>
+            <h2>Een Roompot titel</h2>
             <p>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla, posuere eget elementum vel, egestas non sapien.
               Lorem
               ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus dignissim molestie. Etiam imperdiet sit amet nibh a dapibus. Morbi sit amet justo ac justo scelerisque fringilla non facilisis nulla. Quisque in dolor ut justo malesuada
@@ -124,7 +124,7 @@
         </div>
         <div class="column is-half">
           <div class="content">
-            <h2>Boomhiemke titel</h2>
+            <h2>Nog Roompot een titel</h2>
             <p>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla, posuere eget elementum vel, egestas non sapien.
               Lorem
               ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus dignissim molestie. Etiam imperdiet sit amet nibh a dapibus. Morbi sit amet justo ac justo scelerisque fringilla non facilisis nulla. Quisque in dolor ut justo malesuada
