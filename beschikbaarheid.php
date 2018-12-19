@@ -54,7 +54,7 @@
         <a href="index" class="navbar-item">Home</a>
         <a href="one" class="navbar-item">Amelanderkaap</a>
         <a href="two" class="navbar-item">Boomhiemke</a>
-        <a href="three" class="navbar-item">Nog iets</a>
+        <a href="three" class="navbar-item">Nogiets</a>
         <a href="beschikbaarheid" class="navbar-item">Beschikbaarheid</a>
       </div>
     </div>
@@ -64,157 +64,23 @@
   <section class="hero feature index-feature is-large fadeIn">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title has-text-white heavy shadow">Vakantie aan het water.</h1>
-        <h2 class="subtitle has-text-white shadow">Beschikbaarheid</h2>
+        <h1 class="title has-text-white heavy shadow">Beschikbaarheid</h1>
       </div>
     </div>
   </section>
 
-  <section class="section is-medium">
-    <div class="container">
-      <div class="content">
-        <h2>Titel</h2>
-        <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;hl=nl&amp;bgcolor=%23FFFFFF&amp;src=vakantieopamelandbv%40gmail.com&amp;color=%231B887A&amp;src=nl.dutch%23holiday%40group.v.calendar.google.com&amp;color=%23125A12&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="1200" height="600" frameborder="0" scrolling="no"></iframe>
-      </div>
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="container">
-      <div class="columns is-mobile is-multiline huts">
-        <div class="column is-6-desktop is-12-touch">
-        <!--   <figure class="image is-square">
-            <a href="one"><img src="assets/img/boomhiemke_5.jpg"></a>
-          </figure> -->
-        </div>
-        <div class="column is-6-desktop is-12-touch">
-          <div class="content about">
-           <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;hl=nl&amp;bgcolor=%23FFFFFF&amp;src=vakantieopamelandbv%40gmail.com&amp;color=%231B887A&amp;src=nl.dutch%23holiday%40group.v.calendar.google.com&amp;color=%23125A12&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="1200" height="600" frameborder="0" scrolling="no"></iframe>
-      </div>
-          </div>
-        </div>
-        <!-- <div class="column is-6-desktop is-hidden-desktop">
-          <figure class="image is-square">
-            <a href="two"><img src="assets/img/boomhiemke_6.jpg"></a>
-          </figure> -->
-        </div>
-        <div class="column is-6-desktop is-12-touch">
-          <div class="content about has-text-right-desktop">
-            <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;hl=nl&amp;bgcolor=%23FFFFFF&amp;src=vakantieopamelandbv%40gmail.com&amp;color=%231B887A&amp;src=nl.dutch%23holiday%40group.v.calendar.google.com&amp;color=%23125A12&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="1200" height="600" frameborder="0" scrolling="no"></iframe>
-      </div>
-          </div>
-        </div>
-        <div class="column is-6-desktop is-hidden-touch">
-          <!-- <figure class="image is-square">
-            <a href="two"><img src="assets/img/two/main.jpg"></a>
-          </figure> -->
-        </div>
-        <div class="column is-6-desktop is-12-touch">
-          <!-- <figure class="image is-square">
-            <a href="three"><img src="assets/img/three/main.jpg"></a>
-          </figure> -->
-        </div>
-        <div class="column is-6-desktop is-12-touch">
-          <div class="content about">
-            <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;hl=nl&amp;bgcolor=%23FFFFFF&amp;src=vakantieopamelandbv%40gmail.com&amp;color=%231B887A&amp;src=nl.dutch%23holiday%40group.v.calendar.google.com&amp;color=%23125A12&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="1200" height="600" frameborder="0" scrolling="no"></iframe>
-      </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="section is-medium">
-    <div class="container">
-      <div class="columns">
+  <div class="columns">
         <div class="column is-half">
-          <div class="content">
-            <h2>Titel</h2>
-            <p>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla, posuere eget elementum vel, egestas non sapien.
-              Lorem
-              ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus dignissim molestie. Etiam imperdiet sit amet nibh a dapibus. Morbi sit amet justo ac justo scelerisque fringilla non facilisis nulla. Quisque in dolor ut justo malesuada
-              ultricies ut et lorem. Nam interdum interdum tempor. Aenean malesuada ipsum vel elit commodo sagittis. Phasellus gravida, ligula vel tempus mattis, nibh lectus aliquam leo, non mollis sem mauris quis velit.</p>
-          </div>
-        </div>
-        <div class="column is-half">
-          <div class="content">
-            <h2>Titel</h2>
-            <p>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla, posuere eget elementum vel, egestas non sapien.
-              Lorem
-              ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus dignissim molestie. Etiam imperdiet sit amet nibh a dapibus. Morbi sit amet justo ac justo scelerisque fringilla non facilisis nulla. Quisque in dolor ut justo malesuada
-              ultricies ut et lorem. Nam interdum interdum tempor. Aenean malesuada ipsum vel elit commodo sagittis. Phasellus gravida, ligula vel tempus mattis, nibh lectus aliquam leo, non mollis sem mauris quis velit.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="container">
-      <div class="content">
-        <h2>Titel</h2>
-      </div>
-      <div class="columns">
-        <div class="column is-half">
-          <form id="send">
-            <div class="field">
-              <div class="control">
-                <input id="send_name" class="input" type="text" placeholder="Name" required>
-              </div>
-            </div>
-            <div class="field">
-              <div class="control">
-                <input id="send_email" class="input" type="email" placeholder="Email address" required>
-              </div>
-            </div>
-            <div class="field">
-              <div class="control">
-                <input id="send_phone" class="input" type="tel" placeholder="Phone number" required>
-              </div>
-            </div>
-            <div class="field">
-              <div class="control">
-                <textarea id="send_message" class="textarea" placeholder="Message" minlength="10" required></textarea>
-              </div>
-            </div>
-            <div class="field">
-              <div class="control">
-                <button id="submit" class="default button is-fullwidth">Versturen</button>
-              </div>
-            </div>
-          </form>
-          <div id="success">
-            <div class="content has-text-centered">
-              <h3 id="result" class="title"></h3>
-            </div>
-          </div>
-          <div id="failure">
-            <div class="content has-text-centered">
-              <h3 class="title">Versturen mislukt...</h3>
-            </div>
+          <div class="map-responsive">
+            <iframe src="https://calendar.google.com/calendar/embed?showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=vakantieopamelandbv%40gmail.com&amp;color=%2329527A&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
           </div>
         </div>
         <div class="column is-half">
           <div class="map-responsive">
-            <iframe src="https://maps.google.com/maps?width=100%&height=600&hl=nl&q=Oosterhiemweg%201%2C%209161%20CZ%20Hollum+(Vakantiewoningaanhetwater)&ie=UTF8&t=h&z=18&iwloc=B&output=embed"
-              width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe src="https://calendar.google.com/calendar/embed?showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=vakantieopamelandbv%40gmail.com&amp;color=%2329527A&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
           </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <footer class="footer">
-    <div class="content has-text-centered soc">
-      <a href=""><i class="fab fa-2x fa-facebook fk"></i></a>
-      <a href=""><i class="fab fa-2x fa-twitter tr"></i></a>
-      <a href=""><i class="fab fa-2x fa-instagram im"></i></a>
-    </div>
-  </footer>
-
-  <div id="one-cache">hi</div>
-  <div id="two-cache"></div>
-  <div id="three-cache"></div>
+   </div>
+ </div>
 
   <script src="assets/js/jquery.min.js"></script>
   <script src="assets/js/scripts.js"></script>
